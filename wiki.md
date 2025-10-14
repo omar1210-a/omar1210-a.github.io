@@ -1,30 +1,43 @@
-# Topic Title
-![](url for an image about your topic)
+# My Personal Wiki Page
 
-A short description / abstract of the topic you choose. For the text here and below, feel free to use **bold** and *italic* fonts, [linked texts](url),  ![images](url), or any other element you think would be helpful for your audience to understand the topic.
+Welcome to my **Markdown Practice Page**!  
 
+---
 
-## Section 1
-One or several paragraphs.
+## About Me
+Hi, I’m **Omar Ahmad**, a *student at the University of Washington* studying **Geography: Data Science**.  
+I love exploring maps, data visualization, and aviation.
 
-## Section 2
-One or several paragraphs.
-### (Optional) Subsection 1
-One or several paragraphs.
-### (Optional) Subsection 2
-One or several paragraphs.
+> “The best way to predict the future is to create it.” — *Peter Drucker*
 
-## Section 3
-One or several paragraphs for subsection 3.
+---
 
-## See also
-- [Resource 1](url)
-- [Resource 2](url)
-- [Resource 3](url)
+### Useful Links
+Here are a few websites I frequently visit:
+- [Netflix](https://www.netflix.com/)
+- [FlightRadar24](https://www.flightradar24.com/)
+- [NASA Earth Data](https://earthdata.nasa.gov/)
 
-## References
-1. Reference 1
-2. Reference 2
-3. Reference 3
+---
 
-test
+### Image Example
+Here’s a cool image of Seattle’s skyline:
+
+![Seattle Skyline](https://upload.wikimedia.org/wikipedia/commons/5/5e/Seattle_Skyline_and_Mount_Rainier.jpg)
+
+---
+
+#### My Hobbies
+- Aviation and plane spotting  
+- Making maps in GIS  
+- Working with data visualization  
+- Leading student clubs like **GeoDat** and **HuskyADAPT**
+
+---
+
+##### Goals
+1. Learn more about **spatial data science**
+2. Build collaborative, inclusive projects
+3. Explore careers in **aerospace analytics**
+
+---
