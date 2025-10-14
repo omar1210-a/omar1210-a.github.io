@@ -21,7 +21,7 @@ Here are a few websites I frequently visit:
 ### Image Example
 Here’s a cool image of one of my favourite aircrafts:
 
-![Concorde](https://theaviationgeekclub.com/wp-content/uploads/2021/08/Concorde-Mach-2.webp)
+![Concorde](https://blog.museumofflight.org/hubfs/Concorde%20Blog.jpg)
 
 
 ---
@@ -30,7 +30,7 @@ Here’s a cool image of one of my favourite aircrafts:
 - Aviation and plane spotting  
 - Making maps in GIS  
 - Working with data visualization  
-- Leading student clubs like **GeoDat** and **HuskyADAPT**
+- Leading student clubs like **Aviation Club @ UW** 
 
 ---
 
