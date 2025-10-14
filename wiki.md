@@ -19,7 +19,7 @@ Here are a few websites I frequently visit:
 ---
 
 ### Image Example
-Here’s a cool image of one of my favourite aircrafts:
+Here’s a cool image of one of my favourite aircrafts, the Concorde:
 
 ![Concorde](https://blog.museumofflight.org/hubfs/Concorde%20Blog.jpg)
 
