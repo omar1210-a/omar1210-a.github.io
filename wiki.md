@@ -8,8 +8,6 @@ Welcome to my **Markdown Practice Page**!
 Hi, I’m **Omar Ahmad**, a *student at the University of Washington* studying **Geography: Data Science**.  
 I love exploring maps, data visualization, and aviation.
 
-> “The best way to predict the future is to create it.” — *Peter Drucker*
-
 ---
 
 ### Useful Links
